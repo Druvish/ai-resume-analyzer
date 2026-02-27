@@ -73,5 +73,9 @@ export default function Home() {
           </div>
       )}
     </section>
+
+    <footer className="mt-16 py-8 text-center text-sm text-gray-500 border-t border-gray-200">
+      <p>Created by Siddhesh G</p>
+    </footer>
   </main>
 }
